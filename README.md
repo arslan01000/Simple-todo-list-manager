@@ -18,7 +18,7 @@ A simple command-line to-do list app to **add, remove, and view tasks**.
 ```sh
 git clone https://github.com/arslan01000/simple-todo-list-manager.git
 cd simple-todo-list-manager
-python todo_list.py
+python todo_list_manager.py
 
 ```
 
